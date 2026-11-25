@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Ish jarayonlari yuklandi!",
+        "subtitle": "🏗️ Bugun 09.09.2026 sanasi xolatiga ish jarayonlari videosi Telegram kanalimizga yuklandi!",
+        "type": "video",
+        "author": "Hamdam Binokor",
+        "date": "09.09.2026",
+        "icon": "CONSTRUCTION_ROUNDED",
+        "icon_color": "blue",
+        "icon_bg": "blue_50",
+        "video_url": "https://t.me/hamdam_binokor/315"
+    },
+    {
+        "title": "Formo ilovasi yangilandi.",
+        "subtitle": "Mijozlar foydalanishi uchun yaratilgan Formo Mobile ilovasini 1.2.0 versiyasi chiqdi yangilanishni Telegram kanalimizdan ko'chirib olishingiz mumkin.",
+        "type": "image",
+        "author": "Hamdam Binokor",
+        "date": "17.08.2026",
+        "icon": "LOCAL_OFFER_ROUNDED",
+        "icon_color": "orange",
+        "icon_bg": "orange_50",
+        "image_url": "https://hamdamovich.github.io/formostories/media/formo-ilovasi-yangilandi-2026-08-17.jpg"
+    },
+    {
+        "text": "text",
+        "title": "Yangi shartnomalarda Muddatli to'lov to'xtatildi",
+        "subtitle": "Yangi shartnomalar qilishda muddatli to'lovlar to'xtatilganini ma'lum qilamiz.",
+        "author": "Hamdam Binokor",
+        "date": "12.05.2026",
+        "icon": "LOCAL_OFFER_ROUNDED",
+        "icon_color": "orange",
+        "icon_bg": "orange_50"
+    }
+]
