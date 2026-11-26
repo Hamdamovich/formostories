@@ -8,7 +8,8 @@
         "date": "09.09.2026",
         "image": "https://hamdamovich.github.io/formostories/media/ish-jarayonlari-2026-09-09.jpg",
         "video_url": "https://hamdamovich.github.io/formostories/media/ish-jarayonlari-2026-09-09.mp4",
-        "telegram_url": "https://t.me/hamdam_binokor/315"
+        "telegram_url": "https://t.me/hamdam_binokor/315",
+        "archived": true
     },
     {
         "id": "s20260826-1",
@@ -18,6 +19,7 @@
         "author": "Hamdam Binokor",
         "date": "26.08.2026",
         "image": "https://hamdamovich.github.io/formostories/media/formomobile-yangilash-2026-08-26.jpg",
-        "video_url": null
+        "video_url": null,
+        "archived": true
     }
 ]
